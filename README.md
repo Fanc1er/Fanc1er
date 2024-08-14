@@ -3,7 +3,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Hello%2C%20World%22);祝您今天愉快!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Hello%2C%20World%22);祝您今天愉快!&center=true&size=28" />
     </a>
   </div>
 
@@ -21,7 +21,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=HbTigerGe&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=Fanc1er&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -33,5 +33,3 @@
 </div>
 
   <!-- profile music 个人音乐 -->
-
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=419289487&theme=car&title=最近最常听&show_random=1&mode=light&size=300)](https://netease-recent-profile.vercel.app/?id=419289487&theme=card&title=最近最常听&show_random=1&mode=light&size=300)
